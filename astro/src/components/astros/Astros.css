@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    background-color: var(--secondary);
+    height: 150px;
+    max-width: 220px;
+    border-radius: 15px;
+    margin: 20px auto;
+}
